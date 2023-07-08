@@ -1,0 +1,45 @@
+body {
+  background: linear-gradient(#f21eb6 0%, #f06565 40%, #f06fa7 100%);
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 80px;
+}
+
+.profileImage {
+  width: 400px;
+}
+
+.profile h2 {
+  color: aliceblue;
+}
+.profile h4 {
+  color: aliceblue;
+  transform: translateY(-10px);
+}
+.biodata {
+  background: linear-gradient(white 20%, rgb(237, 100, 113) 60%, rgb(245, 131, 198) 100%);
+}
+
+.prestasi {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.prestasi h1 {
+  margin-bottom: 50px;
+}
+footer {
+  background: white;
+  padding-bottom: 30px;
+}
+.contact h4 {
+  margin-bottom: 5px;
+}
+
+.watermark {
+  padding-top: 30px;
+}
