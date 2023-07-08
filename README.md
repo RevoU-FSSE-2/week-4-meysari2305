@@ -41,3 +41,21 @@ jika sudah selesai akan muncul link CDN CloudFlare, atau nameServer kamu seperti
 <h1 text-align="center"><img src="assets/image/hosting6.jpg" width="400px" height="300px" /> </h1>
 
 berikut adalah tampilan name server kamu berhasil di ubah
+
+### STEP 7
+
+<h1 text-align="center"><img src="assets/image/hosting8.jpg" width="400px" height="300px" /> </h1>
+
+lalu setiing domain di cloudflare, menghubungkan link web yg sudah kamu devloy di netlify seperti berikut
+
+### STEP 8
+
+<h1 text-align="center"><img src="assets/image//hosting7.jpg" width="400px" height="300px" /> </h1>
+
+lalu verivikasi atau tautkan link yang sudah kamu setting di cloudflare di custom domain netlify
+
+### STEP 9
+
+<h1 text-align="center"><img src="assets/image/hosting9.jpg" width="400px" height="300px" /> </h1>
+
+dan berikut adalah tampilan domain kamu berhasil di custom dengan domain dari niagahoster
