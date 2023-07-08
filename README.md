@@ -3,11 +3,11 @@
 #Link tugas Week4 Iis Meysari
 Click the link https://portofolio-sari.imys.site to se my project😉
 
-#Berikut Adalah Tutorial Custom Domain Di Netlify
+# Berikut Adalah Tutorial Custom Domain Di Netlify
 
-###STEP 1
+### STEP 1
 
-<h1 align="left"><img src="assets/image/hosting1.jpg" width="30px" height="30px" /> </h1>
+<h1 align="left"><img src="assets/image/hosting1.jpg" width="200px" height="200px" /> </h1>
 
 pertama-tama yaitu signUp di Niagahoster, dan mencari nama domain apakah tersedia atau tidak,
 jika tersedia silahkan ceklis nama domain dan checkout melakukan pembayaran
